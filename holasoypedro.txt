@@ -1,5 +1,7 @@
 hola, soy Pedro (test1)
 
-CAMBIO 1-LOCAL
+1. CAMBIO 1-LOCAL
 
-CAMBIO DESDE GITHUB SI O NO?
+2. CAMBIO DESDE GITHUB SI O NO?
+
+3. Nuevo cambio en local
